@@ -2,15 +2,6 @@ Food Production Data Science Project
 
 This project is a data science project focused on analyzing food production data. The main goal of this project is to explore and analyze data related to food production and identify insights that can help improve the food production process.
 
-Table of Contents
-
-Project Description
-Data Source
-Data Preprocessing
-Data Analysis
-Results
-Conclusion
-Project Description
 
 In this project, we will be analyzing data related to food production. The main objective of the project is to analyze the data and identify insights that can help improve the food production process. This project will involve several steps, including data preprocessing, data analysis, and visualization.
 
